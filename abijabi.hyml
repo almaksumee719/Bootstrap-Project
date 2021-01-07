@@ -1,0 +1,318 @@
+<section id="about">
+	<div class="container">
+	<div class="row">
+	<div class="col-md-6">
+	<h1>About Us</h1>
+	<div class="about-content">
+	Founded in 1996 in Amsterdam, Booking.com has grown from a small Dutch startup to one of the world’s leading digital travel companies. Part of Booking Holdings Inc. (NASDAQ: BKNG), Booking.com’s mission is to make it easier for everyone to experience the world.
+		</div>
+		<button type="button" class="btn btn-primary">Read More</button>
+	</div>
+	<div class="col-md-6 skills-bar">
+		
+	<p>Food Quality</p>
+	<div class="progress">
+	<div class="progress-bar" style="width: 90%;">90%</div>
+	</div>
+	<p>Our Sevice</p>
+	<div class="progress">
+	<div class="progress-bar" style="width: 75%;">75%</div>
+	</div>
+	<p>Our price low then other resturant</p>
+	<div class="progress">
+	<div class="progress-bar" style="width: 70%;">70%</div>
+	</div>
+	<p>Behaviour well</p>
+	<div class="progress">
+	<div class="progress-bar" style="width: 65%;">65%</div>
+	</div>
+	<p>low Quality</p>
+	<div class="progress">
+	<div class="progress-bar" style="width: 20%;">2%</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	
+</section>
+
+<!--sevices--->
+<section id="services">
+    <div class="container">
+      <h1>Our Services</h1>
+      <div class="row sevice">
+        <div class="col-md-4 text-center">
+          <div class="icon">
+           <i class="fa fa-cutlery"></i>
+            </div>
+              <h3>Chinese Food</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, ex, accusamus. Fugit rem cumque harum vitae corporis aliquid officiis, dolorem perferendis eveniet blanditiis quis quos ut neque voluptatibus vero. Rerum.</p>
+        </div>
+         <div class="col-md-4 text-center">
+          <div class="icon">
+           <i class="fa fa-moon-o"></i>
+            </div>
+              <h3>Thai Food</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, ex, accusamus. Fugit rem cumque harum vitae corporis aliquid officiis, dolorem perferendis eveniet blanditiis quis quos ut neque voluptatibus vero. Rerum.</p>
+        </div>
+         <div class="col-md-4 text-center">
+          <div class="icon">
+          <i class="fa fa-star"></i>
+            </div>
+              <h3>Bangali Food</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, ex, accusamus. Fugit rem cumque harum vitae corporis aliquid officiis, dolorem perferendis eveniet blanditiis quis quos ut neque voluptatibus vero. Rerum.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--------------Our Chef ------------>
+<section id="chef">
+    <div class="container">
+      <h1>Our Chef</h1>
+      <div class="row">
+        <div class="col-md-6 profile-pic text-center">
+          <div class="img-box">
+            <img src="img/chef1.jpg">
+            <ul>
+              <a href="#"><li><i class="fa fa-facebook-official" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-twitter" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-linkedin-square" aria-hidden="true"></i></li></a>
+            </ul>
+            <div>
+              <h2>Wolfgang Puck</h2>
+              <h3>Male Chef</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, quasi nulla! Obcaecati beatae, excepturi praesentium quisquam asperiores reiciendis,</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 profile-pic text-center">
+          <div class="img-box">
+            <img src="img/chef2.jpg">
+            <ul>
+              <a href="#"><li><i class="fa fa-facebook-official" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-twitter" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-linkedin-square" aria-hidden="true"></i></li></a>
+            </ul>
+            <div>
+              <h2>Jamie Oliver</h2>
+              <h3>Male Chef</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, quasi nulla! Obcaecati beatae, excepturi praesentium quisquam asperiores reiciendis,</p>
+            </div>
+          </div>
+        </div>
+         <div class="col-md-6 profile-pic text-center">
+          <div class="img-box">
+            <img src="img/chef3.jpg">
+            <ul>
+              <a href="#"><li><i class="fa fa-facebook-official" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-twitter" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-linkedin-square" aria-hidden="true"></i></li></a>
+            </ul>
+            <div>
+              <h2>Clare Smyth</h2>
+              <h3>Female Chef</h3>
+              <p>Necessitatibus quos expedita beatae dolorum vel, ad vero delectus illo architecto nihil modi, explicabo perferendis possimus.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 profile-pic text-center">
+          <div class="img-box">
+            <img src="img/chef4.jpg">
+            <ul>
+              <a href="#"><li><i class="fa fa-facebook-official" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-twitter" aria-hidden="true"></i></li></a>
+              <a href="#"><li><i class="fa fa-linkedin-square" aria-hidden="true"></i></li></a>
+            </ul>
+            <div>
+              <h2>Rechel Roy</h2>
+              <h3>Female Chef</h3>
+              <p>Necessitatibus quos expedita beatae dolorum vel, ad vero delectus illo architecto nihil modi, explicabo perferendis possimus.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+	<!---Price_-->
+ <section id="Price">
+    <div class="container">
+      <h1>Price</h1>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="Monthly-Price">
+            <div class="price-head">
+              <h2>Chinese Food</h2>
+              
+            </div>
+            <div class="price-content">
+              <ul>
+                <li>Soup <p>BTD<span></span>150-300</p></li>
+                <li>Chowmin <p>BTD<span></span>300-500</p></li>
+                <li>Fried Chicken <p>BTD<span></span>200-400</p></li>
+                <li>Fried Rice set <p>BTD<span></span>300-700</p></li>
+                <li>Currey<p>BTD<span></span>300-800</p></li>
+              </ul>
+            </div>
+            <div class="price-button">
+              <a class="buy-btn" href="#">Order Now</a>
+            </div>
+          </div>
+        </div>
+         <div class="col-md-4">
+          <div class="Monthly-Price">
+            <div class="price-head">
+              <h2>Thai Food</h2>
+              
+            </div>
+            <div class="price-content">
+              <ul>
+                <li>Burger <p>BTD<span></span>150-300</p></li>
+                <li>Shawrma <p>BTD<span></span>100-500</p></li>
+                <li>Sandwtich<p>BTD<span></span>100-300</p></li>
+                <li>Pizza<p>BTD<span></span>300-2000</p></li>
+                <li>Hotdog<p>BTD<span></span>100-500</p></li>
+              </ul>
+            </div>
+            <div class="price-button">
+              <a class="buy-btn" href="#">Order Now</a>
+            </div>
+          </div>
+        </div>
+         <div class="col-md-4">
+          <div class="Monthly-Price">
+            <div class="price-head">
+              <h2>Bangali Food</h2>
+             
+            </div>
+            <div class="price-content">
+              <ul>
+                <li>kacchi Biriyani <p>BTD<span></span>150-500</p></li>
+                <li>Bhuna Khichuri<p>BTD<span></span>100-500</p></li>
+                <li>Morog Polau<p>BTD<span></span>200-500</p></li>
+                <li>Grill Chicken and Naan<p>BTD<span></span>300-550</p></li>
+                <li>Haleem<p>BTD<span></span>100-200</p></li>
+              </ul>
+            </div>
+            <div class="price-button">
+              <a class="buy-btn" href="#">Order Now</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="contact">
+    <div class="container">
+      <h1>Contact</h1>
+      <div class="row">
+        <div class="col-md-6">
+          <form class="contact-form">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Your Name">
+            </div>
+            <div class="form-group">
+              <input type="number" class="form-control" placeholder="Phone No.">
+            </div>
+            <div class="form-group">
+              <input type="email" class="form-control" placeholder="Email ID">
+            </div>
+            <div class="form-group">
+              <textarea class="form-control" rows="6" placeholder="Message"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">SEND MESSAGE</button>
+          </form>
+        </div>
+        <div class="col-md-6">
+          <div class="fllow"><b>Address:</b> Bijoy Shoroni Inner road Dhaka,Bangladesh </div>
+          <div class="fllow"><b>Phone:</b> 023695487 </div>
+          <div class="fllow"><b>Email:</b> Foodnetwork@gmail.com </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!---client section_-->
+  <section class="clients-section" style="background-image:url(img/banner2.jpg)">
+        <div class="auto-container">
+            
+            <div class="sponsors-outer">
+                <!--Sponsors Carousel-->
+                <ul class="sponsors-carousel owl-carousel owl-theme">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo1.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo2.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo3.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo4.jpg" alt=""></a></figure></li>
+          <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo1.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo2.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo1.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo2.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="img/logo3.jpg" alt=""></a></figure></li>
+                </ul>
+            </div>
+            
+        </div>
+    </section>
+
+
+
+
+====================================================================
+  Clients Section
+====================================================================
+
+***/
+
+.clients-section{
+  position:relative;
+  padding:40px 0px 40px;
+}
+
+.clients-section:before{
+  position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-color: rgba(193,0,0,0.95);
+}
+
+.clients-section .sponsors-outer{
+  position:relative;
+}
+
+.clients-section .sponsors-outer .owl-dots,
+.clients-section .sponsors-outer .owl-nav{
+  position:relative;
+  display:none;
+}
+
+.clients-section .sponsors-outer .image-box{
+  position:relative;
+  text-align:center;
+  -webkit-transition:all 300ms ease;
+  -ms-transition:all 300ms ease;
+  -o-transition:all 300ms ease;
+  -moz-transition:all 300ms ease;
+  transition:all 300ms ease;
+  margin-bottom: 0;
+}
+
+.clients-section .sponsors-outer .image-box img{
+  max-width:100%;
+  width:auto;
+  display:inline-block;
+  -webkit-transition:all 300ms ease;
+  -ms-transition:all 300ms ease;
+  -o-transition:all 300ms ease;
+  -moz-transition:all 300ms ease;
+  transition:all 300ms ease;
+}
+
+.clients-section .sponsors-outer .image-box img:hover{
+  opacity:0.6;
+}
+
+/*** 
